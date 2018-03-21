@@ -1,3 +1,3 @@
 # ShakespeareSonnetGeneration
 
-Our attempt at generating sonnets with machine learning.
+Generating Shakespearean sonnets with machine learning.
